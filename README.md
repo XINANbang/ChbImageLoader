@@ -24,5 +24,4 @@
 
 #### 效果图
 
-![https://github.com/XINANbang/ChbImageLoader/blob/master/image/previewe.jpg]()	
-
+![preview](https://github.com/XINANbang/ChbImageLoader/blob/master/image/preview.jpg)	
